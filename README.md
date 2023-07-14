@@ -1,6 +1,6 @@
-# LCP Mobile Projects
+# LCP Mobile App Template
 
-This is a LCP Mobile Projects, which is a native mobile app to show, create and share my projects for everyone or me.
+This is a LCP Mobile App Template, which is a basic template of native mobile app.
 
 Powered by the [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
